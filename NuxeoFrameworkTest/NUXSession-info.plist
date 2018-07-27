@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Username</key>
+	<string>C6ED68F2-3221-434D-B076-3CABD426F0D1</string>
+	<key>Password</key>
+	<string>06E64C89-E47A-4958-A87A-70E29D0E560C</string>
+	<key>Repository</key>
+	<string>path</string>
+	<key>ApiPrefix</key>
+	<string>api/v1</string>
+	<key>URL</key>
+	<string>http://***:8080/nuxeo</string>
+</dict>
+</plist>

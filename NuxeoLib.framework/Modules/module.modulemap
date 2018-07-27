@@ -1,0 +1,11 @@
+framework module NuxeoLib {
+  umbrella header "NuxeoLib.h"
+
+  export *
+  module * { export * }
+}
+
+module NuxeoLib.Swift {
+    header "NuxeoLib-Swift.h"
+    requires objc
+}
